@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [17/May/2021:17:49:04 +0200] "GET /caixer HTTP/1.1" 302 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [17/May/2021:17:49:05 +0200] "GET /caixer/ HTTP/1.1" 200 52 http-bio-8080-exec-3 661
+0:0:0:0:0:0:0:1 - - [17/May/2021:17:49:05 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [17/May/2021:17:49:16 +0200] "GET /caixer/HolaServlet.java HTTP/1.1" 404 997 http-bio-8080-exec-5 5
+0:0:0:0:0:0:0:1 - - [17/May/2021:17:49:21 +0200] "GET /caixer/HolaServlet HTTP/1.1" 404 987 http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [17/May/2021:17:49:38 +0200] "GET /caixer/ServletCaixer HTTP/1.1" 404 991 http-bio-8080-exec-7 1
+0:0:0:0:0:0:0:1 - - [17/May/2021:17:49:45 +0200] "GET /caixer HTTP/1.1" 302 - http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [17/May/2021:17:49:45 +0200] "GET /caixer/ HTTP/1.1" 200 52 http-bio-8080-exec-9 3
+0:0:0:0:0:0:0:1 - - [17/May/2021:17:49:50 +0200] "GET /caixer/caixer HTTP/1.1" 200 95 http-bio-8080-exec-10 2
+0:0:0:0:0:0:0:1 - - [17/May/2021:18:26:08 +0200] "GET /caixer HTTP/1.1" 302 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [17/May/2021:18:26:08 +0200] "GET /caixer/ HTTP/1.1" 200 52 http-bio-8080-exec-5 38
+0:0:0:0:0:0:0:1 - - [17/May/2021:18:37:06 +0200] "GET /caixer/caixer HTTP/1.1" 500 1774 http-bio-8080-exec-1 121
+0:0:0:0:0:0:0:1 - - [17/May/2021:18:37:41 +0200] "GET /caixe HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [17/May/2021:18:37:43 +0200] "GET /caixer HTTP/1.1" 302 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [17/May/2021:18:37:43 +0200] "GET /caixer/ HTTP/1.1" 200 52 http-bio-8080-exec-7 35

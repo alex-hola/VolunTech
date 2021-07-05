@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [20/May/2021:17:52:49 +0200] "GET /caixer/caixer HTTP/1.1" 500 1559 http-bio-8080-exec-2 61
+0:0:0:0:0:0:0:1 - - [20/May/2021:17:52:49 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [20/May/2021:17:55:52 +0200] "GET /caixer/caixer HTTP/1.1" 500 1559 http-bio-8080-exec-2 100
+0:0:0:0:0:0:0:1 - - [20/May/2021:17:56:01 +0200] "GET /caixer/caixer?pin=1234 HTTP/1.1" 500 1820 http-bio-8080-exec-1 15
+0:0:0:0:0:0:0:1 - - [20/May/2021:17:56:25 +0200] "GET /caixer/caixer?pin=1234 HTTP/1.1" 500 1632 http-bio-8080-exec-2 2053
+0:0:0:0:0:0:0:1 - - [20/May/2021:18:03:22 +0200] "GET /caixer/caixer?pin=1234 HTTP/1.1" 200 407 http-bio-8080-exec-1 3028
+0:0:0:0:0:0:0:1 - - [20/May/2021:19:50:03 +0200] "GET /caixer/caixer?pin=1234 HTTP/1.1" 200 407 http-bio-8080-exec-5 3095
+0:0:0:0:0:0:0:1 - - [20/May/2021:19:50:16 +0200] "GET /caixer/caixer?pin=1234 HTTP/1.1" 200 407 http-bio-8080-exec-6 2711
+0:0:0:0:0:0:0:1 - - [20/May/2021:19:50:31 +0200] "GET /caixer/caixer?pin=1234 HTTP/1.1" 200 407 http-bio-8080-exec-7 6477

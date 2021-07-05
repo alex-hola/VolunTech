@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [13/Jun/2021:23:28:50 +0200] "OPTIONS /voluntech/getOfertas HTTP/1.1" 200 - http-bio-8080-exec-1 19
+0:0:0:0:0:0:0:1 - - [13/Jun/2021:23:28:51 +0200] "GET /voluntech/getOfertas HTTP/1.1" 200 468 http-bio-8080-exec-2 448
+0:0:0:0:0:0:0:1 - - [13/Jun/2021:23:31:04 +0200] "GET /voluntech/getOfertas HTTP/1.1" 200 468 http-bio-8080-exec-4 51
+0:0:0:0:0:0:0:1 - - [13/Jun/2021:23:31:09 +0200] "GET /voluntech/getOfertas HTTP/1.1" 200 468 http-bio-8080-exec-5 33
+0:0:0:0:0:0:0:1 - - [13/Jun/2021:23:31:10 +0200] "GET /voluntech/getOfertas HTTP/1.1" 200 468 http-bio-8080-exec-6 33
+0:0:0:0:0:0:0:1 - - [13/Jun/2021:23:31:12 +0200] "GET /voluntech/getOfertas HTTP/1.1" 200 468 http-bio-8080-exec-7 26
+0:0:0:0:0:0:0:1 - - [13/Jun/2021:23:51:00 +0200] "GET /voluntech/getOfertas HTTP/1.1" 200 468 http-bio-8080-exec-9 90
+0:0:0:0:0:0:0:1 - - [13/Jun/2021:23:51:33 +0200] "GET /voluntech/getOfertas HTTP/1.1" 200 468 http-bio-8080-exec-10 25
+0:0:0:0:0:0:0:1 - - [13/Jun/2021:23:51:34 +0200] "GET /voluntech/getOfertas HTTP/1.1" 200 468 http-bio-8080-exec-10 27
+0:0:0:0:0:0:0:1 - - [13/Jun/2021:23:54:34 +0200] "GET /voluntech/getOfertas HTTP/1.1" 200 981 http-bio-8080-exec-3 38
+0:0:0:0:0:0:0:1 - - [13/Jun/2021:23:57:03 +0200] "GET /voluntech/getOfertas HTTP/1.1" 200 981 http-bio-8080-exec-5 28
